@@ -1,1 +1,1 @@
-Solutions to the Codewars.com programming problems.
+My solutions to the Codewars.com programming problems.
